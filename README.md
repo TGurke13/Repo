@@ -1,1 +1,1 @@
- git checkout -b 'branch name' to create branch
+git checkout -b 'branch name' to create branch!
